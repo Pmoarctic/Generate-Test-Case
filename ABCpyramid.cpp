@@ -5,7 +5,7 @@ int main()
 {
     int n;
     cin >> n;
-    int ci;
+    int a;
     string alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     int long_line = 1;
     int start = 0;
