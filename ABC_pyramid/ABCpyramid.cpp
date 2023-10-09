@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int n;
+    int n,m;
     cin >> n;
     int ci;
     string alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
